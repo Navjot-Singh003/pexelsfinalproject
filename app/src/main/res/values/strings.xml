@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Pexels</string>
+    <string name="search">Search...</string>
+    <string name="history">History</string>
+    <string name="user">user</string>
+    <string name="download">Download</string>
+    <string name="unplash">Unplash</string>
+    <string name="pexels">Pexels</string>
+    <string name="images_not_found">Images not found</string>
+    <string name="download_images">Download Images</string>
+    <string name="downloaded_images">Downloaded Images</string>
+    <string name="delete">Delete</string>
+</resources>
